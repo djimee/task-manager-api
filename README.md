@@ -1,4 +1,4 @@
-# task-manager-api
+# Task-Manager
 A task manager API I developed to learn how to work with and create APIs using MongoDB, Express, Node.js, and Insomnia to test the various endpoints.
 
 Install the relevant npm packages using `npm install`, then run the `npm run dev` script to run the application on the local host.
